@@ -54,3 +54,8 @@ Educational Institutions (schools/colleges) for showcasing their online classes.
 Coaching Centers or Training Institutes offering programming, tech, or business courses.
 
 EdTech Startups who want to launch MVPs with course offerings and expert mentoring.
+
+
+
+#OUTPUT#
+https://github.com/trushantKose/E-LEARNING-PLATFORM-UI/issues/1#issue-3241598279
