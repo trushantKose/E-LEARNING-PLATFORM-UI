@@ -58,4 +58,5 @@ EdTech Startups who want to launch MVPs with course offerings and expert mentori
 
 
 #OUTPUT#
-https://github.com/trushantKose/E-LEARNING-PLATFORM-UI/issues/1#issue-3241598279
+
+<img width="1736" height="900" alt="Image" src="https://github.com/user-attachments/assets/e8d8503e-e781-4eea-9674-bb9ec4a8b18e" />
